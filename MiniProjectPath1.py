@@ -12,5 +12,5 @@ dataset_1['Williamsburg Bridge']  = pandas.to_numeric(dataset_1['Williamsburg Br
 dataset_1['Williamsburg Bridge']  = pandas.to_numeric(dataset_1['Williamsburg Bridge'].replace(',','', regex=True))
 # print(dataset_1.to_string()) #This line will print out your data
 m = 12
-
+n = 1
 """The use of the code provided is optional, feel free to add your own code to read the dataset. The use (or lack of use) of this code is optional and will not affect your grade."""
